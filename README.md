@@ -10,4 +10,6 @@
 
 **Assumptions:** Holding cost, stockout cost, and lead time are assumed values.
 
+**Data:** [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii), UCI Machine Learning Repository, licensed CC BY 4.0. Raw files are not included in this repo; download them from the link above. Changes made: cancellations and non-product lines removed, data aggregated to weekly units per product.
+
 **Status:** In progress.
